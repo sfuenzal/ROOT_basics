@@ -1,0 +1,6 @@
+{
+    "files.associations": {
+        "HistogramMacroOne.C": "cpp",
+        "HistogramMacroTwo.C": "cpp"
+    }
+}
